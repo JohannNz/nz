@@ -1,1 +1,1 @@
-Ejemplo de aplicacion web, realizada utilizando Framework Ruby On Rails
+* Ejemplo de aplicacion web, realizada utilizando <tt>Framework Ruby On Rails </tt>
